@@ -1,3 +1,7 @@
+
+LIVE PROJECT AT: https://florist-f2215.web.app/ OR https://florist-f2215.firebaseapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
